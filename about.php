@@ -23,7 +23,7 @@
                 <li>Absolwent Podyplomowej Szkoły Medycyny Estetycznej Polskiego Towarzystwa Lekarskiego w Warszawie </li>
             </ul>
             <ul>Wybrane publikacje naukowe :
-                <li>Rozprawa doktorska:Zastosowanie transformacji izobolograficznej do oceny charakteru interakcji umbelifeonu z klasycznymi lekami przeciwpadaczkowymi w teście maksymalnego wstrząsu elektrycznego u myszy.</li>
+                <li>Rozprawa doktorska: Zastosowanie transformacji izobolograficznej do oceny charakteru interakcji umbelifeonu z klasycznymi lekami przeciwpadaczkowymi w teście maksymalnego wstrząsu elektrycznego u myszy.</li>
                 <li>Praca dyplomowa z medycyny estetycznej; Znieczulenie w medycynie estetycznej - wybrane zagadnienia oraz wstępne badania własne dotyczące porównania skuteczności różnych rodzajów znieczulenia do wybranych zabiegów w medycynie estetycznej.</li>
             </ul>
 

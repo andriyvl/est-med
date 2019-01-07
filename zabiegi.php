@@ -12,7 +12,7 @@
 </main>
 <div class="cushycms article" id="zabiegi"><div class="whitebox">
 
-<p class="text_center">Zabiegi</p>
+<h1 class="text_center">Zabiegi</h1>
 
 
 
@@ -32,7 +32,7 @@
 
 
 
-<h4>Czy zabieg jest bolesny?</h4>
+<h3>Czy zabieg jest bolesny?</h3>
 
 
 
@@ -40,7 +40,7 @@
 
 
 
-<h4><strong>Kiedy powstaje i jak długo utrzymuje się efekt?</strong></h4>
+<h3><strong>Kiedy powstaje i jak długo utrzymuje się efekt?</strong></h3>
 
 
 
@@ -48,7 +48,7 @@
 
 
 
-<h4>Schemat terapii</h4>
+<h3>Schemat terapii</h3>
 
 
 
@@ -80,11 +80,11 @@
 
 
 
-<h4><strong>Przeciwwskazania oraz działania niepożądane</strong></h4>
+<h3><strong>Przeciwwskazania oraz działania niepożądane</strong></h3>
 
 
 
-<p><u>Przeciwwskazania</u></p>
+<p>Przeciwwskazania</p>
 
 
 
@@ -118,7 +118,7 @@
 
 
 
-<p><u>Objawy uboczne:</u></p>
+<p>Objawy uboczne:</p>
 
 
 
@@ -194,7 +194,7 @@ Reakcje te maja charakter przemijający, większość z nich ustępuje na og&oac
 
 
 
-<h4>Przebieg zabiegu:</h4>
+<h3>Przebieg zabiegu:</h3>
 
 
 
@@ -216,7 +216,7 @@ Reakcje te maja charakter przemijający, większość z nich ustępuje na og&oac
 
 
 
-<h4>Przeciwwskazania i powikłania:</h4>
+<h3>Przeciwwskazania i powikłania:</h3>
 
 
 
@@ -272,7 +272,7 @@ Reakcje te maja charakter przemijający, większość z nich ustępuje na og&oac
 
 
 
-<h4>Mezoterapia igłowa w odmładzaniu sk&oacute;ry:</h4>
+<h3>Mezoterapia igłowa w odmładzaniu sk&oacute;ry:</h3>
 
 
 
@@ -298,7 +298,7 @@ Reakcje te maja charakter przemijający, większość z nich ustępuje na og&oac
 
 
 
-<h4>Mezoterapia igłowa w leczeniu cellulitu:</h4>
+<h3>Mezoterapia igłowa w leczeniu cellulitu:</h3>
 
 
 
@@ -346,7 +346,7 @@ Reakcje te maja charakter przemijający, większość z nich ustępuje na og&oac
 
 
 
-<h4>Mezoterapia igłowa w leczeniu łysienia:</h4>
+<h3>Mezoterapia igłowa w leczeniu łysienia:</h3>
 
 
 
@@ -392,7 +392,7 @@ Reakcje te maja charakter przemijający, większość z nich ustępuje na og&oac
 
 
 
-<h4>Mezoterapia igłowa w leczeniu rozstęp&oacute;w:</h4>
+<h3>Mezoterapia igłowa w leczeniu rozstęp&oacute;w:</h3>
 
 
 
@@ -440,7 +440,7 @@ Reakcje te maja charakter przemijający, większość z nich ustępuje na og&oac
 
 
 
-<h4>Opis zabiegu</h4>
+<h3>Opis zabiegu</h3>
 
 
 
@@ -448,7 +448,7 @@ Reakcje te maja charakter przemijający, większość z nich ustępuje na og&oac
 
 
 
-<p>Preparaty zawierające&nbsp;<strong>kwas hialuronowy</strong>&nbsp;wstrzyknięte do sk&oacute;ry właściwej skutecznie uzupełniają jego niedob&oacute;r, nawilżają sk&oacute;rę,&nbsp;<u>wypełniają zmarszczki</u>, nadają objętość, modelują usta, poprawiają kontur twarzy, pobudzają naturalne procesy regeneracyjne sk&oacute;ry, dzięki czemu nawet po wchłonięciu preparatu sk&oacute;ra wygląda lepiej niż przed zabiegiem.</p>
+<p>Preparaty zawierające&nbsp;<strong>kwas hialuronowy</strong>&nbsp;wstrzyknięte do sk&oacute;ry właściwej skutecznie uzupełniają jego niedob&oacute;r, nawilżają sk&oacute;rę,&nbsp;wypełniają zmarszczki, nadają objętość, modelują usta, poprawiają kontur twarzy, pobudzają naturalne procesy regeneracyjne sk&oacute;ry, dzięki czemu nawet po wchłonięciu preparatu sk&oacute;ra wygląda lepiej niż przed zabiegiem.</p>
 
 
 
@@ -456,7 +456,7 @@ Reakcje te maja charakter przemijający, większość z nich ustępuje na og&oac
 
 
 
-<h4>Czy zabieg jest bolesny?</h4>
+<h3>Czy zabieg jest bolesny?</h3>
 
 
 
@@ -464,7 +464,7 @@ Reakcje te maja charakter przemijający, większość z nich ustępuje na og&oac
 
 
 
-<h4><strong>Kiedy powstaje i jak długo utrzymuje się efekt?</strong></h4>
+<h3><strong>Kiedy powstaje i jak długo utrzymuje się efekt?</strong></h3>
 
 
 
@@ -472,7 +472,7 @@ Reakcje te maja charakter przemijający, większość z nich ustępuje na og&oac
 
 
 
-<h4><strong>Schemat terapii</strong></h4>
+<h3><strong>Schemat terapii</strong></h3>
 
 
 
@@ -480,7 +480,7 @@ Reakcje te maja charakter przemijający, większość z nich ustępuje na og&oac
 
 
 
-<h4><strong>Zalecenia pozabiegowe</strong></h4>
+<h3><strong>Zalecenia pozabiegowe</strong></h3>
 
 
 
@@ -488,11 +488,11 @@ Reakcje te maja charakter przemijający, większość z nich ustępuje na og&oac
 
 
 
-<h4><strong>Przeciwwskazania oraz działania niepożądane</strong></h4>
+<h3><strong>Przeciwwskazania oraz działania niepożądane</strong></h3>
 
 
 
-<p><u>Przeciwwskazania:</u></p>
+<p>Przeciwwskazania:</p>
 
 
 
@@ -518,74 +518,49 @@ Reakcje te maja charakter przemijający, większość z nich ustępuje na og&oac
 
 
 
-<p><u>Objawy niepożądane</u></p>
+<p>Objawy niepożądane</p>
 
 
 
 <ul>
-
 <li>Zaczerwienienie, obrzęk</li>
-
 <li>B&oacute;l w miejscu wstrzyknięcia materiału - objawy te znikają w przeciągu 72 godzin</li>
-
 <li>Świąd w przypadku sk&oacute;ry wrażliwej</li>
-
 <li>Nadwrażliwość w miejscu korekcji</li>
-
 <li>Sporadycznie obrzęk pod postacią zgrubienia utrzymującego się kilka tygodni</li>
-
 </ul>
+<br>
+<hr>
 
+<h2><strong>Osocze bogatopłytkowe</strong></h2>
 
-
-<h1><br />
-
-<strong>Osocze bogatopłytkowe</strong></h1>
-
-
-
-<h4><strong>Co to jest osocze bogatopłytkowe?</strong></h4>
+<h3><strong>Co to jest osocze bogatopłytkowe?</strong></h3>
 
 <br />
 
 Osocze bogatopłytkowe PRP (Platelet Rich Plasma) jest koncentratem płytek krwi w niewielkiej objętości osocza. Otrzymywane jest w procesie wirowania krwi pobranej z żyły, bezpośrednio od pacjenta przed zabiegiem. Cały proces może odbywać się w zabiegowych gabinetach lekarskich. Krwinki płytkowe uwalniają siedem podstawowych czynnik&oacute;w wzrostu: trzy izomery PDGF (αα,ββ,αβ), TGF-β1, TGF-β2, VEGF oraz EGF. Osocze bogatopłytkowe zawiera r&oacute;wnież białka odpowiedzialne za adhezję kom&oacute;rkową: fibrynę, fibronektynę oraz vitronektynę.
 
-<h4>Jak działają czynniki wzrostu zawarte w osoczu bogatopłytkowym?</h4>
+<h3>Jak działają czynniki wzrostu zawarte w osoczu bogatopłytkowym?</h3>
 
 <br />
-
-pobudzają procesy regeneracji tkanek<br />
-
-pobudzają fibroblasty do tworzenia nowego kolagenu<br />
-
-wspomagają proces angiogenezy (tworzenia nowych naczyń krwionośnych)<br />
-
-aktywują mezenchymalne kom&oacute;rki macierzyste<br />
-
+<ul>
+<li>pobudzają procesy regeneracji tkanek</li>
+<li>pobudzają fibroblasty do tworzenia nowego kolagenu</li>
+<li>wspomagają proces angiogenezy (tworzenia nowych naczyń krwionośnych)</li>
+<li>aktywują mezenchymalne kom&oacute;rki macierzyste</li>
+</ul>
 &nbsp;
 
-<h4>Kiedy stosować zabiegi z użyciem osocza bogatopłytkowego?</h4>
+<h3>Kiedy stosować zabiegi z użyciem osocza bogatopłytkowego?</h3>
 
 <br />
-
-gdy występują oznaki starzenia: zmarszczki, fałdy, bruzdy, kurze łapki, zapadnięta sk&oacute;ra, zmniejszona gęstość sk&oacute;ry,<br />
-
-gdy sk&oacute;ra jest zmęczona, wysuszona, słabo napięta, jej kolor nie jest jednakowy,<br />
-
-gdy chcemy, aby sk&oacute;ra szybciej się goiła i regenerowała po zabiegach,<br />
-
-gdy potrzebne jest wypełnienie blizn po trądziku,<br />
-
-gdy poszukiwane są produkty naturalne lub są uczulenia na inne produkty.<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
+<ul>
+<li>gdy występują oznaki starzenia: zmarszczki, fałdy, bruzdy, kurze łapki, zapadnięta sk&oacute;ra, zmniejszona gęstość sk&oacute;ry</li>
+<li>gdy sk&oacute;ra jest zmęczona, wysuszona, słabo napięta, jej kolor nie jest jednakowy</li>
+<li>gdy chcemy, aby sk&oacute;ra szybciej się goiła i regenerowała po zabiegach</li>
+<li>gdy potrzebne jest wypełnienie blizn po trądziku</li>
+<li>gdy poszukiwane są produkty naturalne lub są uczulenia na inne produkty</li>
+</ul>
 <br />
 
 &nbsp;</div>

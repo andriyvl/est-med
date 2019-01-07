@@ -11,12 +11,12 @@
     <?php include 'main.html' ?>
     </main>
 <div class="cushycms article">
-<h2 class="text_center">Artykuły</h2>
+<p class="text_center">Artykuły</p>
     <div id="materialy">
     <a href="docs/znieczulenie_cz1.pdf"><img src="pics/znieczulenia1.jpg" alt="Artykuł Znieczulenia w zabiegach estetycznych"></a>
     <div>
         <h3>Znieczulenia w zabiegach estetycznych</h3>
-        <h4>Cz. 1</h4>
+        <p>Cz. 1</p>
         <p>Któż z nas nie ma ochoty uciec przed igłą? Niemniej jednak, czy ból zawsze jest pożądany? Pacjent korzystający z usług szeroko
         pojętej medy- cyny estetycznej i dy- namicznie rozwijającej się kosmetologii ma nadzieję na przepro- wadzenie wszelkich zabiegów
         w najprzy- jemniejszej atmosferze oraz bezboleśnie.
@@ -25,7 +25,7 @@
     <a href="docs/znieczulenie_cz2.pdf"><img src="pics/znieczulenia2.jpg" alt="Artykuł Znieczulenia w zabiegach estetycznych"></a>
         <div>
         <h3>Znieczulenia w zabiegach estetycznych</h3>
-        <h4>Cz. 2</h4>
+        <p>Cz. 2</p>
         <p>Ból podczas zabiegów estetycznych nie jest ko- niecznością. W większości przypadków mogą go zniwelować nakładane na skórę
         leki znieczulające. Jaki rodzaj znieczulenia sprawdza się w jakich przy- padkach – wyjaśnia dr Anna Rękas, kontynuując cykl
         publikacji dotyczący tej tematyki.
@@ -33,7 +33,7 @@
     </div>
     <a href="docs/znieczulenia_cz3.pdf"><img src="pics/znieczulenia3.jpg" alt="Artykuł Znieczulenia w zabiegach estetycznych"></a><div>
         <h3>Znieczulenia w zabiegach estetycznych</h3>
-        <h4>Cz. 3 Powikłania</h4>
+        <p>Cz. 3 Powikłania</p>
         <p>Znieczulenia przed zabiegami są nieodłączną częścią medycyny estetycznej. Do znieczulania używa się substancji leczniczych.
         Należy pamiętać, że wiąże się to z ryzykiem potencjalnych powikłań lub zdarzeń niepożądanych, na które musimy być zawsze
         przygotowani.
@@ -42,8 +42,8 @@
     <a href="docs/Rękas_got.pdf"><img src="pics/znieczulenia_wybrane.jpg" alt="Artykuł Znieczulenie w medycynie estetycznej"></a><div>
         <h3>Znieczulenie w medycynie estetycznej – wybrane zagadnienia oraz wstępne badania własne dotyczące porównania skuteczności
         różnych rodzajów znieczulenia do wybranych zabiegów w medycynie estetycznej</h3>
-        <h4>Wyróżniona praca dyplomowa absolwentki PSME
-        </h4>
+        <p>Wyróżniona praca dyplomowa absolwentki PSME
+</p>
         <p>Słowa kluczowe: medycyna estetyczna, ból, znieczulenie nasiękowe, znieczulenie powierzchniowe, blokady nerwów,
             leki miejscowo znieczulające.</p>
     </div>
@@ -60,23 +60,23 @@
         iniekcyjna, liposukcja, operacja.</p>
     </div> -->
 </div>
-<h2 class="text_center">Dokumenty</h2>
+<h2 class="text_center" style="background-color: white">Dokumenty do pobrania:</h2>
 <div id="dokumenty">
     <a href="docs/Uniwersalna_Zgoda_Nowa_2.pdf" alt="uniwersalna zgoda dokument"><i class="far fa-file-alt fa-2x"></i></a>
     <div>
-            <h5>Uniwersalna zgoda na wykonakie zabiegu estetycznego</h3>
+            <p>Uniwersalna zgoda na wykonakie zabiegu estetycznego</h3>
     </div>
         <a href="docs/ankieta_kancelaria_prawa_medycznego.pdf" alt="ankieta kancelaria prawa medycznego"><i class="far fa-file-alt fa-2x"></i></a>
     <div>
-            <h5>Ankieta stanu zdrowia pacjentow</h3>
+            <p>Ankieta stanu zdrowia pacjentow</h3>
     </div>
     <a href="docs/Pictures_before and_after_teoxane.pptx" alt="pacienty przed i po - teoxane"><i class="far fa-file-alt fa-2x"></i></a>
     <div>
-            <h5>Zdjęcia Przed i Po zabiegach (TEOXANE)</h3>
+            <p>Zdjęcia Przed i Po zabiegach (TEOXANE)</h3>
     </div>
     <a href="docs/PATIENTS_BEFORE_AFTER.pptx" alt="pacienty przed i po"><i class="far fa-file-alt fa-2x"></i></a>
     <div>
-            <h5>Zdjęcia Przed i Po zabiegach</h3>
+            <p>Zdjęcia Przed i Po zabiegach</h3>
     </div>
 </div>
 </div>
